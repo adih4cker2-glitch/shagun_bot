@@ -5,7 +5,7 @@ from flask import Flask, request
 app = Flask(__name__)
 
 API_KEY = (
-    "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"
+    "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"
 )
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
